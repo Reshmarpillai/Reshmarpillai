@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I was a zoologist
 
 ### Connect with me 
-[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](www.linkedin.com/in/rahulraveendran144)
+[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](www.linkedin.com/in/reshmaraveendran)
 
 ### I code in
- <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+ <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> [<img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img width="50" height="50" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>](https://react.dev/) [<img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>](https://www.mongodb.com/) [<img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>](https://nodejs.org/en)
 
 ### IDE and Tools I use
 <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> [<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>](https://git-scm.com/)
