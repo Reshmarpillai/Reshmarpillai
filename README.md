@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me reshmarofficial83@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I was a zoologist
+- ⚡ Fun fact: I was a Biologist
 
 ### Connect with me 
 [<img width="50" height="50" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/reshmaraveendran)
