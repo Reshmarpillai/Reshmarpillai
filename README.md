@@ -2,7 +2,7 @@
   > "I'm a bioinformatician with a passion for exploring the intersection of biology and technology. Currently delving into web development and programming, I'm excited to apply my analytical skills and domain knowledge to create innovative solutions in the digital realm."
 - 👨‍💻 Here is my portfolio
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me reshmarofficial83@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was a Biologist
