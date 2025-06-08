@@ -16,7 +16,7 @@
 [<img width="50" height="50" src="https://img.icons8.com/nolan/64/angularjs.png" alt="angularjs"/>](https://angular.dev/) [<img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>](https://www.typescriptlang.org/)
 
 ### IDE and Tools I use
-[<img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>](https://code.visualstudio.com/)  [<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>](https://git-scm.com/) [<img width="50" height="50" src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="postman-api"/>](https://www.postman.com/reshma-r-pillai)
+[<img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>](https://code.visualstudio.com/)  [<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>](https://git-scm.com/) [<img width="64" height="64" src="https://img.icons8.com/arcade/64/github.png" alt="github"/>](https://github.com/) [<img width="50" height="50" src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="postman-api"/>](https://www.postman.com/reshma-r-pillai) [<img width="48" height="48" src="https://img.icons8.com/color/48/lightning-bolt.png" alt="lightning-bolt"/>](https://www.thunderclient.com/)
 
 ![Reshma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reshmarpillai&show_icons=true&theme=radical)
 
